@@ -1,1 +1,1 @@
-This is a new txt file to check and learn pull request.
+This is a new txt file to check and learn pull request. Manually change another line to know the pull command is working
