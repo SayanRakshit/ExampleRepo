@@ -1,1 +1,3 @@
+This is a new txt file to check and learn pull request.
+In this story2.txt add character
 This is a new txt file to check and learn pull request. Manually change another line to know the pull command is working
